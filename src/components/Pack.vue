@@ -45,12 +45,12 @@ export default {
   data: () => ({
     bpm: 1,
     packs :[
-      { img: "p1.png", title: "Medium Box", subtitle: "Tomato, Cabbage, Oil, Cauliflower", price: "$55"},
-      { img: "p2.png", title: "Big Pack", subtitle: "Tomato, Cabbage, Oil, Cauliflower", price: "$55" },
-      { img: "p3.png", title: "Small", subtitle: "Tomato, Cabbage, Oil,Cauliflower ", price: "$55" },
-      { img: "p4.png", title: "Medium Box", subtitle: "Tomato, Cabbage, Oil,Cauliflower", price: "$55" },
-      { img: "p5.png", title: "Medium Box", subtitle: "Tomato, Cabbage, Oil,Cauliflower", price: "$55" },
-      { img: "p6.png", title: "Medium Box", subtitle: "Tomato, Cabbage, Oil,Cauliflower", price: "$55" },
+      { img: "p1.png", title: "Combo Mediano", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55"},
+      { img: "p2.png", title: "Combo Grande", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55" },
+      { img: "p3.png", title: "Combo Pequeño", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55" },
+      { img: "p4.png", title: "Combo Mediano", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55" },
+      { img: "p5.png", title: "Combo Mediano", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55" },
+      { img: "p6.png", title: "Combo Mediano", subtitle: "Tomate, Repollo, Cebolla, Coliflor", price: "$55" },
     ]
   }),
   methods: {

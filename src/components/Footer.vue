@@ -29,25 +29,25 @@
         </v-col>
         <v-col cols="12" xs="12" sm="6" md="2">
           <v-card-text class="white--text pt-0">
-            <h3>About</h3>
+            <h3>Acerca de</h3>
           </v-card-text>
-          <v-card-text class="grey--text"> How it Work</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Our Promrams</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Promotions</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Refer a Friend</v-card-text>
+          <v-card-text class="grey--text"> Cómo Funciona</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Nuestros Programas</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Promociones</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Referir a un amigo</v-card-text>
         </v-col>
         <v-col cols="12" xs="12" sm="6" md="2">
           <v-card-text class="white--text pt-0">
             <h3>Delivery</h3>
           </v-card-text>
-          <v-card-text class="grey--text"> Cost on Delivery</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Payment Method</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Delivery Status</v-card-text>
-          <v-card-text class="grey--text mt-n4"> Returns</v-card-text>
+          <v-card-text class="grey--text"> Costo del Delivery</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Métodos de Pago</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Estado del Delivery</v-card-text>
+          <v-card-text class="grey--text mt-n4"> Retornos</v-card-text>
         </v-col>
         <v-col cols="12" xs="12" sm="6" md="2">
           <v-card-text class="white--text pt-0">
-            <h3>Contact</h3>
+            <h3>Contacto</h3>
           </v-card-text>
           <v-card-text class="grey--text"> Yenifer Rosana</v-card-text>
           <v-card-text class="grey--text mt-n4"> Mérida, Venezuela</v-card-text>

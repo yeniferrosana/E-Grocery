@@ -7,19 +7,19 @@
           <v-card class="mx-auto rounded-xl" flat>
             <v-img src="cover2.png" max-height="100%" max-width="100%" contain>
               <v-card-title class="top ml-10">
-                <h2 class="title1">Order your</h2>
+                <h2 class="title1">Ordena</h2>
               </v-card-title>
               <v-card-title class="ml-10 mt-n8">
-                <h2 class="title2">Daily Groceries</h2>
+                <h2 class="title2">tus alimentos</h2>
               </v-card-title>
               <v-card-text class="ml-10">
-                <h3 class="green--text">#Free Delivery</h3>
+                <h3 class="green--text">#Delivery gratis</h3>
               </v-card-text>
               <v-card-text class="ml-10">
                 <v-row>
                   <v-col cols="4">
                     <v-text-field 
-                      label="Search your daily groceries"
+                      label="Busca tus compras diarias"
                       class="d-none d-sm-none d-md-flex"
                       filled
                       solo
@@ -32,7 +32,7 @@
                     </v-text-field>
                   </v-col>
                   <v-col cols="2" class="marginLeft">
-                    <v-btn color="green" rounded dark x-large class="py-7 d-none d-sm-none d-md-flex">Search</v-btn>
+                    <v-btn color="green" rounded dark x-large class="py-7 d-none d-sm-none d-md-flex">Buscar</v-btn>
                   </v-col>
                 </v-row>
               </v-card-text>
@@ -40,7 +40,7 @@
           </v-card>
           <v-toolbar flat color="transparent">
             <v-toolbar-title class="text-h6">
-              Category
+              Categorías
             </v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn-toogle v-model="toggle_exclusive" group color="#49d9a0">
@@ -54,14 +54,14 @@
           </v-toolbar>
           <Category />
           <v-toolbar flat color="transparent" class="mt-5">
-            <v-toolbar-title class="text-h6">Popular Product</v-toolbar-title>
+            <v-toolbar-title class="text-h6">Productos Populares</v-toolbar-title>
             <v-spacer></v-spacer>
-            <v-btn rounded color="green" dark class="px-8">See All</v-btn>
+            <v-btn rounded color="green" dark class="px-8">Ver Todos</v-btn>
           </v-toolbar>
           <Product />
           <v-card flat color="#e2d2e5" class="rounded-xl mt-8">
             <v-toolbar flat color="transparent" class="mb-4">
-              <v-toolbar-title class="text-h6 mt-5">Popular Bundle Pack</v-toolbar-title>
+              <v-toolbar-title class="text-h6 mt-5">Combos Populares</v-toolbar-title>
             </v-toolbar>
             <Pack />
           </v-card>
@@ -69,13 +69,13 @@
             <div
               style="position: absolute; margin-left: auto; margin-right: auto; left:0; right:0; text-align: center;"
             >
-              <h3>What Our Clients Say</h3>
+              <h3>Lo que dicen nuestros clientes</h3>
             </div>
             <Client />
           </v-card>
           <v-toolbar flat color="transparent" class="mt-8">
             <v-toolbar-title class="text h6">
-              Our Trusted Partner
+              Nuestros socios de confianza
             </v-toolbar-title>
           </v-toolbar>
           <Partner />
@@ -87,7 +87,7 @@
                 </v-card>
               </v-col>
               <v-col cols="12" xs="12" sm="6" md="7">
-                <h1 class="mt-16"> Download App</h1>
+                <h1 class="mt-16"> Descarga nuestra App</h1>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit <br>
                   Provident sequi esse tempore maiores quasi quia non. <br>

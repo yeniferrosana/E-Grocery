@@ -48,20 +48,20 @@ export default {
       {
         img: "https://cdn.vuetifyjs.com/images/lists/1.jpg",
         title: "Kareem Benji",
-        subtitle: "CPO on Maqua",
-        bio: "If you enjoy using Vuetify, please take a few seconds to rate your experience with the framework. It really helps!",
+        subtitle: "CPO en Maqua",
+        bio: "Si le gusta usar Vuetify, tómese unos segundos para calificar su experiencia con el marco. ¡Realmente ayuda!",
       },
       {
         img: "https://cdn.vuetifyjs.com/images/lists/2.jpg",
-        title: "AAE IdeaPro",
-        subtitle: "CPO on Maqua",
-        bio: "If you enjoy using Vuetify, please take a few seconds to rate your experience with the framework. It really helps!",
+        title: "Yenifer Rosana",
+        subtitle: "CPO en Maqua",
+        bio: "Si le gusta usar Vuetify, tómese unos segundos para calificar su experiencia con el marco. ¡Realmente ayuda!",
       },
       {
         img: "https://cdn.vuetifyjs.com/images/lists/3.jpg",
         title: "Raul Seem ",
-        subtitle: "CPO on Maqua",
-        bio: "If you enjoy using Vuetify, please take a few seconds to rate your experience with the framework. It really helps!",
+        subtitle: "CPO en Maqua",
+        bio: "Si le gusta usar Vuetify, tómese unos segundos para calificar su experiencia con el marco. ¡Realmente ayuda!",
       },
     ]
   })

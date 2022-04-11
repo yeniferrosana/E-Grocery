@@ -10,6 +10,7 @@
           <v-item v-slot="{ active, toggle }">
             <v-card 
               :color="active ? '#d5f0db': 'white'"
+              :style="active ? 'border: 3px solid green;'  : 'border: 1px solid white;'"
               class="d-flex align-center rounded-lg mx-2"
               dark
               height="180"
@@ -46,12 +47,12 @@
 export default {
   data: () => ({
     categories: [
-      { img: "01.png", title: "Meat & Fish" },
-      { img: "02.png", title: "Vegetables" },
-      { img: "3.png", title: "Medicine" },
-      { img: "4.png", title: "Baby" },
-      { img: "5.png", title: "Office" },
-      { img: "6.png", title: "Beauty" }
+      { img: "01.png", title: "Carnes y Pescados" },
+      { img: "02.png", title: "Vegetales" },
+      { img: "3.png", title: "Medicina" },
+      { img: "4.png", title: "Bébes" },
+      { img: "5.png", title: "Oficina" },
+      { img: "6.png", title: "Cosméticos" }
     ]
   })
 }
